@@ -1,0 +1,204 @@
+digraph G {
+	node [color=blue fontcolor=black]
+	"++0++" [label="++0++
+Это была операция
+спец. служб
+России"]
+	node [color=red fontcolor=black href=""]
+	"--200--" [label="--200--
+Нет никаких доказательств
+того, что отравление
+было осуществленно
+российскими спец.
+службами"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_201.md"]
+	"--201--" [label="--201--
+Не предоставлено
+никаких доказательств
+причастности спец.
+служб России"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_202.md"]
+	"--202--" [label="--202--
+Отравление и возможная
+в результате этого
+смерть Навального
+невыгодна Кремлю и
+спец. службам"]
+	node [color=red fontcolor=black href=""]
+	"--203--" [label="--203--
+Не было никакого
+отравления"]
+	node [color=blue fontcolor=black href="https://www.interfax.ru/russia/724409"]
+	"++203++" [label="++203++
+"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_1.md"]
+	"--1--" [label="--1--
+Навальный - слишком
+мелкая фигура, чтобы
+преследовать и устранять
+его"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_204.md"]
+	"--204--" [label="--204--
+Навальный находится
+в неадекватном состоянии,
+и не стоит серьезно воспринимать
+его заявления и расследования"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_205.md"]
+	"--205--" [label="--205--
+Нет (не предоставлено)
+никаких доказательств,
+что это было отравление"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_206.md"]
+	"--206--" [label="--206--
+В России не было найдено
+никаких признаков
+отравления. Был поставлен
+другой диагноз"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/pw_207.md"]
+	"++207++" [label="++207++
+Европейские лаборатории
+подтвердили факт отравления
+веществом нервнопаралитического
+действия группы Новичок"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/pw_208.md"]
+	"++208++" [label="++208++
+В журнале Lancet опубликован
+отчёт о лечении Навального
+в 'Шарите'. В статье говорится
+о веществе из группы 'Новичок'"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_209.md"]
+	"--209--" [label="--209--
+Статья в Lancet
+не является доказательством"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_210.md"]
+	"--210--" [label="--210--
+Тот факт, что Навальный
+остался жив говорит
+о том, что спец. службы
+России не пытались
+его убить"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/pw_211.md"]
+	"++211++" [label="++211++
+Тот факт, что это
+Новичок указывает
+на причастность
+спец. служб"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_212.md"]
+	"--212--" [label="--212--
+Все запасы Новичка
+Россия давно
+уничтожила"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_213.md"]
+	"--213--" [label="--213--
+В России никогда
+не было Новичка"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_214.md"]
+	"--214--" [label="--214--
+Отравление Новичком
+было совершено после
+того, как Навальный
+был вывезен из Омской
+больницы"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_215.md"]
+	"--215--" [label="--215--
+В клинике Шарите
+так же не было обнаружено
+следов яда"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_215.md"]
+	"--216--" [label="--216--
+Отравляющие БОВ типа
+Новичок исследовались
+и создавались не только
+в России"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/pw_217.md"]
+	"++217++" [label="++217++
+Совместное расследование
+The Insider, Bellingcat
+и CNN при участии Der Spiegel:
+покушение было организовано
+ФСБ"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/pw_218.md"]
+	"++218++" [label="++218++
+Признание одного
+из отравителей в
+телефонном разговоре
+с Навальным"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/pw_219.md"]
+	"--219--" [label="--219--
+Это подделка и провокация,
+осуществленная с организационной
+и технической поддережкой
+иностранных служб"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_220.md"]
+	"--220--" [label="--220--
+Это смешно (информация
+не заслуживает
+никакого доверия)"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_221.md"]
+	"--221--" [label="--221--
+Выводам этих
+лабораторий
+нельзя доверять"]
+	node [color=blue fontcolor=black]
+	"++221++" [label="++221++
+"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_222.md"]
+	"--222--" [label="--222--
+Власти России
+делали все, чтобы
+спасти Навального"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_223.md"]
+	"--223--" [label="--223--
+Отказываются от
+сотрудничества
+с Россией, не предоставляют
+информацию"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_224.md"]
+	"--224--" [label="--224--
+Это совместная
+операция против
+России"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_225.md"]
+	"--225--" [label="--225--
+Неопределенность
+выводов (относительно
+Новичка)"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_navalny/blob/main/wiki/nw_226.md"]
+	"--226--" [label="--226--
+Если бы это был Новичок,
+Навальный умер бы в
+первые часы (или последствия
+были бы необратимы)"]
+	"++0++" -> "--200--"
+	"++0++" -> "--202--"
+	"++0++" -> "--203--"
+	"++0++" -> "--222--"
+	"++0++" -> "--1--"
+	"++0++" -> "--204--" [style=dotted]
+	"++0++" -> "--210--" [style=dotted]
+	"--200--" -> "++217++"
+	"--200--" -> "++218++"
+	"--200--" -> "++211++" [style=dotted]
+	"--203--" -> "++207++"
+	"--203--" -> "++208++"
+	"--203--" -> "++203++" [color=red dir=both]
+	"++203++" -> "--206--"
+	"++203++" -> "--205--" [style=dotted]
+	"++203++" -> "--215--" [style=dotted]
+	"++203++" -> "--226--" [style=dotted]
+	"++207++" -> "--221--" [style=dotted]
+	"++208++" -> "--209--" [style=dotted]
+	"++211++" -> "--212--"
+	"++211++" -> "--213--"
+	"++211++" -> "--214--"
+	"++211++" -> "--215--"
+	"++211++" -> "--216--"
+	"++211++" -> "--201--" [style=dotted]
+	"--215--" -> "++208++"
+	"++217++" -> "--220--" [style=dotted]
+	"++218++" -> "--219--"
+	"--221--" -> "++221++" [color=red dir=both]
+	"++221++" -> "--223--" [style=dotted]
+	"++221++" -> "--224--" [style=dotted]
+	"++221++" -> "--225--" [style=dotted]
+}

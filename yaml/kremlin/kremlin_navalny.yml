@@ -1,0 +1,298 @@
+# 34
+
+statements:
+# The first statement should be a root !!
+- id: '++0++'
+  text: "Это была операция спец. служб России"
+  wiki_link:
+  direct_contradictions:
+  - id: '--200--'
+  - id: '--202--'
+  - id: '--203--'
+  - id: '--222--'
+  - id: '--1--'
+  indirect_contradictions:
+  - id: '--204--'
+  - id: '--210--'
+  complement:
+  - id:
+- id: '--200--'
+  text: "Нет никаких доказательств того, что отравление было осуществленно российскими спец. службами"
+  wiki_link: ""
+  direct_contradictions:
+  - id: '++217++'
+  - id: '++218++'
+  indirect_contradictions:
+  - id: '++211++'
+  complement:
+  - id:
+- id: '--201--'
+  text: "Не предоставлено никаких доказательств причастности спец. служб России"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_201.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--202--'
+  text: "Отравление и возможная в результате этого смерть Навального невыгодна Кремлю и спец. службам"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_202.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--203--'
+  text: "Не было никакого отравления"
+  wiki_link: ""
+  direct_contradictions:
+  - id: '++207++'
+  - id: '++208++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++203++'
+- id: '++203++'
+  text: ""
+  wiki_link: "https://www.interfax.ru/russia/724409"
+  direct_contradictions:
+  - id: '--206--'
+  indirect_contradictions:
+  - id: '--205--'
+  - id: '--215--'
+  - id: '--226--'
+  complement:
+  - id:
+- id: '--1--'
+  text: "Навальный - слишком мелкая фигура, чтобы преследовать и устранять его"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_1.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--204--'
+  text: "Навальный находится в неадекватном состоянии, и не стоит серьезно воспринимать его заявления и расследования"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_204.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--205--'
+  text: "Нет (не предоставлено) никаких доказательств, что это было отравление"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_205.md"
+  direct_contradictions:
+  - id:      
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '--206--'
+  text: "В России не было найдено никаких признаков отравления. Был поставлен другой диагноз"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_206.md"
+  direct_contradictions:
+  - id:     
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++207++'
+  text: "Европейские лаборатории подтвердили факт отравления веществом нервнопаралитического действия группы Новичок"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/pw_207.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--221--'
+  complement:
+  - id:
+- id: '++208++'
+  text: "В журнале Lancet опубликован отчёт о лечении Навального в 'Шарите'. В статье говорится о веществе из группы 'Новичок'"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/pw_208.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--209--'
+  complement:
+  - id:
+- id: '--209--'
+  text: "Статья в Lancet не является доказательством"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_209.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--210--'
+  text: "Тот факт, что Навальный остался жив говорит о том, что спец. службы России не пытались его убить"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_210.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '++211++'
+  text: "Тот факт, что это Новичок указывает на причастность спец. служб"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/pw_211.md"
+  direct_contradictions:
+  - id: '--212--'
+  - id: '--213--'
+  - id: '--214--'
+  - id: '--215--'
+  - id: '--216--'
+  indirect_contradictions:
+  - id: '--201--'
+  complement:
+  - id:
+- id: '--212--'
+  text: "Все запасы Новичка Россия давно уничтожила"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_212.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--213--'
+  text: "В России никогда не было Новичка"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_213.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--214--'
+  text: "Отравление Новичком было совершено после того, как Навальный был вывезен из Омской больницы"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_214.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--215--'
+  text: "В клинике Шарите так же не было обнаружено следов яда"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_215.md"
+  direct_contradictions:
+  - id: '++208++'
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--216--'
+  text: "Отравляющие БОВ типа Новичок исследовались и создавались не только в России"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_215.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '++217++'
+  text: "Совместное расследование The Insider, Bellingcat и CNN при участии Der Spiegel: покушение было организовано ФСБ"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/pw_217.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--220--'
+  complement:
+  - id:
+- id: '++218++'
+  text: "Признание одного из отравителей в телефонном разговоре с Навальным"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/pw_218.md"
+  direct_contradictions:
+  - id: '--219--'
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '--219--'
+  text: "Это подделка и провокация, осуществленная с организационной и технической поддережкой иностранных служб"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/pw_219.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--220--'
+  text: "Это смешно (информация не заслуживает никакого доверия)"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_220.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--221--'
+  text: "Выводам этих лабораторий нельзя доверять"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_221.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id: '++221++'
+- id: '++221++'
+  text: ""
+  wiki_link:
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--223--'
+  - id: '--224--'
+  - id: '--225--'
+  complement:
+  - id:
+- id: '--222--'
+  text: "Власти России делали все, чтобы спасти Навального"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_222.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--223--'
+  text: "Отказываются от сотрудничества с Россией, не предоставляют информацию"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_223.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--224--'
+  text: "Это совместная операция против России"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_224.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--225--'
+  text: "Неопределенность выводов (относительно Новичка)"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_225.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:
+- id: '--226--'
+  text: "Если бы это был Новичок, Навальный умер бы в первые часы (или последствия были бы необратимы)"
+  wiki_link: "https://github.com/nihole/wg_navalny/blob/main/wiki/nw_226.md"
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: ''
+  complement:
+  - id:

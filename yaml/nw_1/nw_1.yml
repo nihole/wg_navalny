@@ -1,0 +1,1504 @@
+statements:
+# The first statement should be a root !!
+- id: '--1--'
+  text: "Навальный - слишком мелкая фигура, чтобы преследовать и устранять его"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_1.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++1++'
+
+- id: '++165++'
+  text: "Это была операция спец. служб России (что допускает применеие спец. средств)"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_0.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--165--'
+- id: '--165--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_0.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '++1++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_1.md
+  direct_contradictions:
+  - id: '--176--'
+  - id: '--175--'
+  - id: '--183--'
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+
+- id: '--176--'
+  text: "Навальный не представлял существенной явной или потенциальной угрозы для власти"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_176.md
+  direct_contradictions:
+  - id: '++46++'
+  - id: '++199++'
+  indirect_contradictions:
+  - id: '++66++'
+  - id: '++67++'
+  complement:
+  - id: '++176++'
+- id: '++176++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_176.md
+  direct_contradictions:
+  - id: "--16--"
+  - id: "--173--" 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--175--'
+  text: "Издержки, связанные с неправомерным преследованием и тем более отравлением Навального неприемлемо высоки для власти"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_175.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++175++'
+- id: '++175++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_175.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--168--'
+  - id: '--166--'
+  - id: '--164--'
+  - id: '--181--'
+  complement:
+  - id: 
+- id: '++162++'
+  text: "Никто не будет вводить серьезных санкций и выносить болезненные судебные постановления из-за Навального"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_162.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--162--'
+- id: '--162--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_162.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--164--'
+  text: "Возможные высокие издержки, связанные с санкциями и международными судами"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_164.md
+  direct_contradictions:
+  - id: '++163++'
+  - id: '++162++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++163++'
+  text: "Неправильная оценка рисков и ситуации властью и спецслужбами"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_163.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--163--'
+- id: '--163--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_163.md
+  direct_contradictions:
+  - id: '++67++'
+  - id: '++66++'
+  - id: '++188++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+
+- id: '--168--'
+  text: "Высокая стоимость подобной операции устранения"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_168.md
+  direct_contradictions:
+  - id: '++167++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++167++'
+  text: "Власть легко идет на такие расходы"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_167.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--166--'
+  text: "Риски, связанные с юридическими преследования внутри страны, если операция будет раскрыта"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_166.md
+  direct_contradictions:
+  - id: '++191++'
+  - id: '++165++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+
+- id: '--173--'
+  text: "Власть была сильна"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_173.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++173++'
+- id: '++173++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_173.md
+  direct_contradictions:
+  - id: "--190--"
+  - id: "--171--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--171--'
+  text: "Власть контролирует ситуацию, высокий уровень управления"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_171.md
+  direct_contradictions:
+  - id:  
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++171++'
+- id: '++171++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_171.md
+  direct_contradictions:
+  - id: "--45--"
+  - id: "--44--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+
+
+- id: '--2--'
+  text: "Навальный не популярен"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_2.md
+  direct_contradictions:
+  - id: '++7++'
+  - id: '++8++'
+  - id: '++9++'
+  - id: '++40++'
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id: '++2++'
+- id: '++2++'
+  text: "Наваьный популярен"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_2.md
+  direct_contradictions:
+  - id: '--31--'
+  indirect_contradictions:
+  - id: '--3--'
+  complement:
+  - id:
+- id: '--3--'
+  text: "Мало людей выходят на митинги в поддержку Навального"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_3.md
+  direct_contradictions:
+  - id: '++24++'
+  indirect_contradictions:
+  - id: '++27++'
+  complement:
+  - id: "++3++"
+- id: '++3++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_3.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++7++'
+  text: "Выборы мэра в Москве"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_7.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--4--'
+  complement:
+  - id:
+- id: '++8++'
+  text: "У Навальго большая интернет аудитория"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_8.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--5--'
+  complement:
+  - id:
+- id: '++9++'
+  text: "ФБК и штабы существуют и функционируют во многих городах России"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_9.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--5--'
+  complement:
+  - id:
+- id: '--4--'
+  text: "Это эффект протестного голосования, не связанный с популярностью Навального"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_4.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: "++4++"
+- id: '++4++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_4.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--5--'
+  text: "Хомячки. Аудитория Навального - это молодежь и 'виртуальные борцы', не обладающие силой и влиянием"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_5.md
+  direct_contradictions:
+  - id: '++35++'
+  - id: '++50++'
+  indirect_contradictions:
+  - id: '++36++'
+  complement:
+  - id:
+- id: '++11++'
+  text: "Он лидер"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_11.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id: '--11--'
+- id: '--11--'
+  text: "Он не лидер" 
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_11.md
+  direct_contradictions:
+  - id: '++15++'
+  - id: '++12++'
+  indirect_contradictions:
+  - id: '++13++'
+  - id: '++14++'
+  complement:
+  - id:
+- id: '++12++'
+  text: "Управление ФБК и сетью штабов"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_12.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--5--'
+  complement:
+  - id:
+- id: '++13++'
+  text: "Организация выборов"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_13.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--5--'
+  - id: '--4--'
+  - id: '--3--'
+  complement:
+  - id:
+- id: '++14++'
+  text: "Организация митингов"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_14.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--5--'
+  - id: '--3--'
+  complement:
+  - id:
+- id: '++15++'
+  text: "Достаточно быть символом и честным человеком"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_15.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--5--'
+  - id: '--3--'
+  complement:
+  - id:
+- id: '--16--'
+  text: "Навальный не являлся значимой политической фигурой"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_16.md
+  direct_contradictions:
+  - id: '++21++'
+  - id: '++2++'
+  - id: '++11++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++16++'
+- id: '++16++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_16.md
+  direct_contradictions:
+  - id: '--2--'
+  - id: '--11--'
+  - id: '--17--'
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '--17--'
+  text: "Нет программы, только критика"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_17.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '++56++'
+  - id: '++75++'
+  - id: '++78++'
+  complement:
+  - id: '++17++'
+- id: '++17++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_17.md
+  direct_contradictions:
+  - id: '--18--'
+  - id: '--19--'
+  - id: '--20--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--18--'
+  text: "Нет эффективной экономической программы"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_18.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id: '++18++'
+- id: '++18++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_18.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--19--'
+  text: "Нет эффективной социальной программы"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_19.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++19++'
+- id: '++19++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_19.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--20--'
+  text: "Нет сильной профессиональной команды"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_20.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++20++'
+- id: '++20++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_20.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++21++'
+  text: "За границей, он самый известный российский политик после Путина"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_21.md
+  direct_contradictions:
+  - id: '--22--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--21--'
+- id: '--21--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_21.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+
+- id: '--22--'
+  text: "Заграничная известность мало значима в России"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_22.md
+  direct_contradictions:
+  - id: '++23++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++23++'
+  text: "Признание политика за рубежом является существенным атрибутом политического веса"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_23.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--23--'
+- id: '--23--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_23.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '++24++'
+  text: "Митинг 23.01.2021"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_24.md
+  direct_contradictions:
+  - id: "--25--"
+  - id: "--26--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--25--'
+  text: "Этот митинг не может быть аргументом в данном рассмотрении, т.к. был после совершения предполагаемого отравления"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_25.md
+  direct_contradictions:
+  - id: "++42++"
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '--26--'
+  text: "Митинг был малочисленным и вышедшие не отражают мнение хоть сколько-нибудь существенной части населения"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_26.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '++27++'
+  complement: 
+  - id: "++26++"
+- id: '++26++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_26.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++27++'
+  text: "Существуют другие причины, помимо непопулярности, почему люди не выходят на митинги"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_27.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--27--'
+- id: '--27--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_27.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: '++28++'
+  - id: '++29++'
+  - id: '++30++'
+  complement:
+  - id:
+- id: '++28++'
+  text: "Отсутствие лидера"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_28.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++29++'
+  text: "Существенные риски"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_29.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++30++'
+  text: "Неясность и неоднозначность ситуации"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_30.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--31--'
+  text: "Соц. опросы показывают низкую популярность Навального"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_31.md
+  direct_contradictions:
+  - id: '++32++'
+  indirect_contradictions:
+  - id: '++33++'
+  - id: '++47++'
+  complement:
+  - id:
+- id: '++32++'
+  text: "Соц. опросам нельзя доверять"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_32.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: "--32--"
+- id: '--32--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_32.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++33++'
+  text: "Соц. опросы показывают, что Навальный один из самых популярных политиков России"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_33.md
+  direct_contradictions:
+  - id: "--34--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--34--'
+  text: "Рейтинг Навального нужно сравнивать с рейтингом Путина, и он гораздо ниже"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_34.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: "++32++"
+  complement:
+  - id: "++34++"
+- id: '++34++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_34.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++35++'
+  text: "Интернет - это серьезная альтернатива традиционным медиа, что является важным фактором в борьбе за умы"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_35.md
+  direct_contradictions:
+  - id: '--37--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++36++'
+  text: "Именно виртуальное пространство и все, что с ним связано является одним из мощнейших драйверов современных развитых экономик"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_36.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--38--'
+  - id: '--39--'
+  complement:
+  - id: 
+- id: '--37--'
+  text: "Интернет и виртуальность создает иллюзорное восприятие, они не знают жизни и поэтому не могут эффективно действовать в реальности"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_37.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement: 
+  - id: "++37++"
+- id: '--38--'
+  text: "Именно производство реальных товаров является по-настоящему опорой любой экономики"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_38.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: "++38++"
+- id: '++37++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_37.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++38++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_38.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--39--'
+  text: "Жизнь в виртуальном мире не дает действительных конкурентных преимуществ. Для того, чтобы что-то менять, нужно реальное общение с реальными людьми"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_39.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++39++'
+- id: '++39++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_39.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++40++'
+  text: "Широкая поддержка проявляется в высоком уровне пожертвований. Люди голосуют деньгами"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_40.md
+  direct_contradictions:
+  - id: "--41--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--41--'
+  text: "Подавляющая часть финансирования - это отдельные олигархи, западные спецслужбы, или другие агенты западного влияния"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_41.md
+  direct_contradictions:
+  - id: "++40++"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++42++'
+  text: "Высокий уровень поддержки не мог возникнуть так быстро из ниоткуда. Во многом, это проявление или усиление поддержки, которая уже была"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_42.md
+  direct_contradictions:
+  - id: "--26--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: "--42--"
+- id: '--42--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_42.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--44--'
+  text: "Власть полностью контролировала ситуацию, у Навального не было возможности причинить ей существенного урона"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_44.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: "++46++"
+  - id: "++66++"
+  - id: "++67++"
+  - id: "++54++"
+  - id: "++188++"
+  complement:
+  - id:
+- id: '--45--'
+  text: "Навальный - проект Кремля и нужен был ему в его политических играх"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_45.md
+  direct_contradictions:
+  - id: '++71++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++46++'
+  text: "Власть неоднородна. Как минимум, некоторые расследования команды Навального принесли потери, явные или косвенные, некоторым провластным 'группировкам' "
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_46.md
+  direct_contradictions:
+  - id: '--59--'
+  - id: '--65--'
+  indirect_contradictions:
+  - id: '--45--'
+  complement:
+  - id:
+- id: '++47++'
+  text: "Нужно учитывать не только процент, но и активность тех кто за. Навального поддерживают активные люди, желающие что-то изменить и делающие усилия"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_47.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: "--48--"
+  complement:
+  - id:
+- id: '--48--'
+  text: "Активности недостаточно, нужно еще и способность влиять на ситуацию: вес в обществе, эффективные социальные связи, ..."
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_48.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++48++'
+- id: '++48++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_48.md
+  direct_contradictions:
+  - id: "--5--"
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '++50++'
+  text: "В современном мире молодые обладают достаточным влиянием, чтобы менять мир"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_50.md
+  direct_contradictions:
+  - id: '--51--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--51--'
+  text: "Молодежь не обладает существенным влиянием. Связи, положение и мудрость приходят с годами. Именно старшее поколение 'правит' миром"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_51.md
+  direct_contradictions:
+  - id: "++51++"
+  - id: "++52++"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++51++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_51.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++52++'
+  text: "Революции совершают молодые. Поэтому протестные настроения среди молодежи представляют серьезную угрозу режиму"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_52.md
+  direct_contradictions:
+  - id: "--53--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: "--52--"
+- id: '--52--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_52.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--53--'
+  text: "Сторонники Навального не способны к силовому сопротивлению"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_53.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: "++54++"
+  complement:
+  - id: '++53++'
+- id: '++53++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_53.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++54++'
+  text: "Протест может радикализироваться. Власть должна учитывать этош и действовать на опережение"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_54.md
+  direct_contradictions:
+  - id: "--55--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--55--'
+  text: "Для решения этого на тот момент не было смысла устранять Навального. Это решалось и решается другими методами"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_55.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: "++55++"
+- id: '++55++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_55.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++56++'
+  text: "В данный момент критика востребована и именно она делает Навального популярным"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_56.md
+  direct_contradictions:
+  - id: '--57--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--57--'
+  text: "Только критикой невозможно что-то изменить и добиться популярности"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_57.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++57++'
+- id: '++57++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_57.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--59--'
+  text: "Расследования команды Навального - пустышки: некачественны, недостоверны, муссирование старой информации, не содержат доказательств. Это просто пиар Навального"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_59.md
+  direct_contradictions:
+  - id: '++46++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++59++'
+- id: '++59++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_59.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: '--196--'
+  - id: '--195--'
+  - id: '--198--'
+  - id: '--197--'
+  complement:
+  - id:
+- id: '--65--'
+  text: "Приказ об устранении мог поступить только от людей/человека, находящихся в верхних эшелонах власти. А уровень Навального был слишком малозначительным, чтобы они почувствовали риски, требующие подобных действий"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_65.md
+  direct_contradictions:
+  - id: '++66++'
+  - id: '++67++'
+  - id: "++176++"
+  indirect_contradictions:
+  - id: '++188++'
+  complement:
+  - id:
+- id: '++66++'
+  text: "Высокий уровень деградации спецслужб и управления"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_66.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--66--'
+- id: '--66--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_66.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++67++'
+  text: "Деградация рациональности и уровня аналитики власти."
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_67.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--67--'
+- id: '--67--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_67.md
+  direct_contradictions:
+  - id: '++185++'
+  - id: '++184++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++68++'
+  text: "Путин и его окружение живут 'по понятиям' и слова Навального воспринимаются, как оскорбления, за которые он 'должен ответить' "
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_68.md
+  direct_contradictions:
+  - id: '--181--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--68--'
+- id: '--68--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_68.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: '++194++'
+  - id: '++193++'
+  - id: '++192++'
+  complement:
+  - id: 
+- id: '--70--'
+  text: "Власть уважает закон и действует в рамках зака"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_70.md
+  direct_contradictions:
+  - id: "++68++"
+  - id: "++186++" 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '++71++'
+  text: "Навальный подвергался преследованию со стороны власти, власть также потворствовала нападениям на политика и запугиванию"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_71.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '--72--'
+  complement:
+  - id:
+- id: '--72--'
+  text: "Это хитрая игра провластных кувловодов, которые создают из него политическую фигуру с конечной целью взять под контроль протестное движение"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_72.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: '++73++'
+  - id: '++74++'
+  complement:
+  - id:
+- id: '++73++'
+  text: "Наши 'кукловоды' не способны на такую тонкую игру"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_73.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--73--'
+- id: '--73--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_73.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++74++'
+  text: "Защищенность Навального заключалась и заключается в его публичности и известности"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_74.md
+  direct_contradictions:
+  - id: '--2--'
+  - id: '--16--'
+  - id: '--21--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++75++'
+  text: "Популяность зависит не от того, есть программа или нет, а от того, насколько человек соответствует ожиданиям и запросу"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_75.md
+  direct_contradictions:
+  - id: "--76--"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--76--'
+  text: 'В действительности Навальный - это пустышка. Он думает только о своей выгоде: пиаре, власти, деньгах... Люди это чувсвтуют и не идут за ним'
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_76.md
+  direct_contradictions:
+  - id: '++77++'
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '++77++'
+  text: "Навальный - политик с 'человечиским лицом', соостветствует острому запросу на честность, справедливость, равные возможности, ... и в конце концов достойной жизни"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_77.md
+  direct_contradictions:
+  - id: '--189--'
+  indirect_contradictions:
+  - id: '--76--'
+  - id: '--72--'
+  complement:
+  - id:
+- id: '++78++'
+  text: "Желание и намерение что-то изменить - это главное, чего люди ждут. Лидер не должен быть профессионалом во всем - это вопрос команды"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_78.md
+  direct_contradictions:
+  - id: '--76--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++199++'
+  text: "На фоне ситуации в Белорусии влаcть понимала, что наличие такого лидера как Навальный, в случае протестов, подобных Грузии, Украины и Белорусии может сильно усложнить ситуацию"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_199.md
+  direct_contradictions:
+  - id: '--11--'
+  indirect_contradictions:
+  - id: '--190--'
+  - id: '--16--'
+  complement:
+  - id:
+- id: '--198--'
+  text: "Навальный лжец, он все время лжет"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_198.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++198++'
+- id: '++198++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_198.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--197--'
+  text: "Соратника Навального лжецы, они врут"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_197.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++197++'
+- id: '++197++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_197.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--196--'
+  text: "Навальный неадекватен, нет смысла обращать внимание на его расследования"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_198.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++196++'
+- id: '++196++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_196.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--195--'
+  text: "Соратники Навального неадекватны"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_195.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++195++'
+- id: '++195++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_195.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++194++'
+  text: "Питерская подворотня и школа самбо в детстве Путина и его друзей, которые вместе с ним пришли к власти"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_194.md
+  direct_contradictions:
+  - id: '--70--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--194--'
+- id: '--194--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_194.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '++193++'
+  text: "Связь с криминалом"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_193.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--193--'
+- id: '--193--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_193.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++192++'
+  text: "Неформальная система отношений (понятия) в ФСБ"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_192.md
+  direct_contradictions:
+  - id: '--70--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++191++'
+  text: "'Неприкасаемость' людей из высшего эшелона власти (Путин и его друзья), государственные институты полностью подмяты и не являются сдерживающим фактором для них"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_191.md
+  direct_contradictions:
+  - id: '--70--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--191--'
+- id: '--191--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_191.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--190--'
+  text: "Высокий уровень поддержки власти"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_190.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++190++'
+- id: '++190++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_190.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '--189--'
+  text: "Навальный 'плохой человек'"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_189.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++189++'
+- id: '++189++'
+  text: "Навальный 'хороший человек'"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_189.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: ''
+- id: '++188++'
+  text: "Силовые структуры в борьбе за финансы и влияние искажают и информацию"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_188.md
+  direct_contradictions:
+  - id: '--187--'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: ''
+- id: '--187--'
+  text: "Силовые структуры находятся под надлежащим контролем, адекватно управляются и стараются предоставлять адекватную и объективную инфомрацию"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_187.md
+  direct_contradictions:
+  - id: "++188++"
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++186++'
+  text: "Коррупция и покрывательство/участие в/поощрение коррупции властью"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_186.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--186--'
+- id: '--186--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_186.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: ''
+- id: '++185++'
+  text: "Неправильная оценка ситуации"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_185.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--185--'
+- id: '--185--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_185.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: ''
+- id: '++184++'
+  text: "Неадекватность, замешанная на мистицизме и, как итог, непредсказуемоисть и несамостоятельность в принятии решений"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_184.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--184--'
+- id: '--184--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_184.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: ''
+- id: '--183--'
+  text: "Вера Путину. Так сказал Путин, поэтому это правда"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_183.md
+  direct_contradictions:
+  - id: '++181++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: ''
+- id: '--181--'
+  text: "Честность и порядочность Путина. Подобный приказ предполагает очень высокие морально-этические издержки (совесть не позволит)"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_181.md
+  direct_contradictions:
+  - id: '++180++'
+  - id: '++160++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '++181++'
+- id: '++160++'
+  text: "Путин искренне считает, что Навальный должен быть устранен во благо"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_160.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--160--'
+- id: '--160--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_160.md
+  direct_contradictions:
+  - id: '++159++'
+  - id: '++67++'
+  - id: '++66++'
+  - id: '++188++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+- id: '++159++'
+  text: "Навальный - враг. Во благо (родины, будущего, народа... подставьте, что считаете нужным) Навльный должен был быть устранен"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_159.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--159--'
+- id: '--159--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_160.md
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: 
+
+- id: '++181++'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_181.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++180++'
+  text: "Путин это лишь ширма, он фактически отстранен от власти и не контролирует ситуацию"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_180.md
+  direct_contradictions:
+  - id: ''
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--180--'
+- id: '--180--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_180.md
+  direct_contradictions:
+  - id: '++179++'
+  - id: '++178++'
+  - id: '++177++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++179++'
+  text: "Это не Путин, это его двойники"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_179.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--179--'
+- id: '--179--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_179.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++178++'
+  text: "Путин тяжело болен и фактически отошел от дел. Внутренняя политика вышла из под его контроля и влияния"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_178.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--178--'
+- id: '--178--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_178.md
+  direct_contradictions:
+  - id:   
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++177++'
+  text: "Путина фактически лишили власти, он лишь выполняет представительную роль"
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/pw_177.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id: '--177--'
+- id: '--177--'
+  text: ""
+  wiki_link: https://github.com/nihole/wg_navalny/blob/main/wiki/nw_177.md
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
