@@ -1,7 +1,7 @@
 # Кому он нужен с точки зрения волновой графа
 
 --------------------------------------------------------------------------------
-*Russian Verstion*
+*Russian version*
 
 *You will find the English version below, after the Russian version*
 
