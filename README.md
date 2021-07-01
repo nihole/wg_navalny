@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 *Russian version*
 
-*You will find the English version below, after the Russian version*
+*You will find the English version below, after the Russian Part*
 
 --------------------------------------------------------------------------------
 
